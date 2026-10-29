@@ -275,5 +275,5 @@ public class InterpolationSearchDemo {
         System.out.println("• La búsqueda binaria es independiente de la distribución");
         System.out.println("  y siempre es O(log n) sobre datos ordenados.");
         System.out.println("============================================================");
-    }
+    } 
 }
